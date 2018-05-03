@@ -4,7 +4,7 @@ Minecraftサーバ inokinn.net にログインするための環境構築の手�
 # 手順
 
 ## Minecraft本体のインストール
-公式からJava EditionをPCにインストールしてください。<br>
+公式からJava EditionをPCにインストールしてください。(Windows 10 Editionではダメです)<br>
 インストールしたら、一度起動してアカウントの設定を行う。
 
 ## forgeのインストール
