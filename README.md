@@ -1,6 +1,8 @@
 # MinecraftEnv
 Minecraftサーバ inokinn.net にログインするための環境構築の手引きです。
 
+___
+
 # 手順
 
 ## Minecraft本体のインストール
@@ -37,5 +39,16 @@ Minecraftサーバ inokinn.net にログインするための環境構築の手�
 - 「マルチプレイ」を選択し、「サーバーを追加」 -> サーバーアドレスに「inokinn.net」と入力し「完了」を押下。
 - 追加したサーバを選択する。
 
+___
+
 # 導入Modについて
-あとで書く
+
+| Mod名 | ファイル | 概要 | 解説リンク |
+|:---|:---|:---|:---|
+| Aether2 | Aether-2-1.12.2.jar | 「天界」をモチーフとした新ディメンジョンを追加。 | |
+| Biomes O' Plenty | BiomesOPlenty-1.12.2-7.0.1.2384-universal.jar | 新たに80個以上ものバイオームを追加。 | |
+| MrCrayfish’s Furniture Mod | cfm-4.2.0-mc1.12.2.jar | 大量の家具を追加。 | |
+| ChocoCraft Mod | ChocoCraft-Mod-1.12.1.jar | チョコボやギサールの野菜を追加。手懐けて名前を付けたり乗ったり交配させたり出来る。 | http://vanya1o.blog.fc2.com/blog-entry-52.html |
+| Cosmetic Armor Reworked | CosmeticArmorReworked-1.12.2-v1.jar | ネトゲでありがちな、性能装備とは別に見た目装備を設定することが出来る機能を追加。防具非表示にも出来るので、オシャレが捗ります。 | http://brokendisc.blog54.fc2.com/blog-entry-532.html |
+| Electroblob's Wizardry | Electroblob's+Wizardry+-+4.1.1+-+MC+1.12.2.jar | 多数の魔法を追加。 | https://www.youtube.com/watch?v=yWLPsxYBG7E |
+| Ice and Fire | iceandfire-1.4.0-1.12.2.jar | 炎のドラゴンと氷のドラゴンが追加される。また、世界各地にドラゴンの巣が追加される。 | https://www.youtube.com/watch?v=_BbUKrRbzbI |
