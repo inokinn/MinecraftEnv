@@ -26,7 +26,7 @@ Minecraftサーバ inokinn.net にログインするための環境構築の手�
 - CocoaInput-[1.9-1.12.2]-3.1.5.jar をダウンロードする。
 - ダウンロードしたjarを ゲームディレクトリ/modsの中に入れる。
 
-### 画面上にミニマップを表示したい時は
+### 画面上にミニマップを表示したい時は(Optional)
 - JourneyMap というModを導入します。
 - https://minecraft.curseforge.com/projects/journeymap/files/2498312 から、「Download」ボタンを押下する。
 - journeymap-1.12.2-5.5.2.jar をダウンロードする。
